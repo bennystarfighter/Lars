@@ -13,3 +13,6 @@ A frontend for launching and keeping tabs on your discord bots (or other program
 ## Libraries used
 * [Tui-go](https://github.com/marcusolsson/tui-go/)
 * [Viper](https://github.com/spf13/viper)
+
+## Preview
+![Image](https://i.imgur.com/iriM1hK.png)
